@@ -5,8 +5,7 @@ This is a simple 2D side-scroll game. The Santa runs from left to right and has 
 The game ends when the Santa hits an obstacle.  The goal is to avoid as many obstacles as possible.
 
 ### Development platform: 
-macOS Mojave Version 10.14.4, Unity2019.1.14f1, VS 7.7.0.1868)
-(OS, Unity Version, Visual Studio Version, used SDKs)
+macOS Mojave Version 10.14.4, Unity2019.1.14f1, VS 7.7.0.1868
 
 ### Target platform: 
 WebGl and Standalone, RefRes: 1920 * 1080
